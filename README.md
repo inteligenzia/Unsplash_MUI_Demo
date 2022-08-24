@@ -1,2 +1,1 @@
-# Unsplash_MUI_Demo
-Created with CodeSandbox
+# Simple demo with Unsplash integraiton and MUI. 
